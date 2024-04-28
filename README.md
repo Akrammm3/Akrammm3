@@ -11,7 +11,7 @@ I am a 4th-semester Computer Science student who is always thirsty for knowledge
 ## Education:
 
 #### 1. [Universitas Bengkulu](https://en.unib.ac.id/) | Bachelor of Informatics engineering | Bengkulu `2022-sekarang`
-   - Kepala Departemen Minat dan Bakat Himatif
+   - Head of the Department of Interest and Talent in Himatif
   
  #### 2. [SMA N 6 Kerinci](https://data.sekolah-kita.net/sekolah/SMAN%206%20KERINCI_27132) | MIPA | Kerinci `2019-2022`
    - Member of the Student Council.
