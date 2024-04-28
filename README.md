@@ -1,4 +1,4 @@
-# Hi there, I'm Akram - aka [Akrammm3](https://www.youtube.com/channel/UCt_3Ds63ctThafbDy79YFRw) 👋
+# Hi there, I'm Akram - aka lam [Akrammm3](https://www.youtube.com/channel/UCt_3Ds63ctThafbDy79YFRw) 👋
 ## About me:
 - 🔭 I want to work as a Data Analyst in the future
 - 🌱 Currently, I am learning Python, Javascript, HTML, CSS, and Excel
